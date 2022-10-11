@@ -1,0 +1,18 @@
+.picker-details {
+  border-radius: 10px;
+  border: 2.5px solid #98184d;
+
+  h5 {
+    padding: 0.7rem 1rem 0.5rem 1rem;
+    border-bottom: 1px dashed black;
+  }
+
+  .details {
+    padding: 1rem 1.15rem;
+    .info {
+      margin-bottom: 0.3rem;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+}

@@ -1,0 +1,21 @@
+.line {
+  background-color: #98184d;
+  height: 4px;
+  width: 100%;
+}
+
+.my-card {
+  padding: 0.4rem 1.25rem;
+  border: 1px solid black;
+  border-radius: 10px;
+  text-align: center;
+  margin-right: 0.5rem;
+  font-size: 0.8rem;
+  cursor: pointer;
+}
+
+.my-card.active {
+  color: white;
+  background-color: #98184d;
+  border-color: #98184d;
+}
